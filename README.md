@@ -18,4 +18,4 @@ We observe that the MLP from the VGG is more efficient than the MLP and equivale
 The execution time for 600 images is 0.21 seconds and the accuracy is 1.0.
 Finally, transfer learning speeded up training and improved the performance of our deep learning model.
 
-![alt text](https://github.com/JulienChoukroun/Face-Detection-Orientation-Recognition/blob/main/Images/videoTram6-1.png "Tram6-1")
+![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionA.png "Prediction for the letter A")
