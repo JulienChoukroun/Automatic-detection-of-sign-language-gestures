@@ -7,7 +7,7 @@ This project was carried out with the Python language.
 
 ### Purpose:
 * Detect letters and words of sign language in real time.
-* Use deep learning techniques.
+* Use machine and deep learning techniques such as boosting, neural networks (multilayer perceptron), deep neural network (convolutionnal neural network) and transfer learning.
 
 Example of result:
 
