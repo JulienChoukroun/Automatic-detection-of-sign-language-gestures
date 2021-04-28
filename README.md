@@ -19,3 +19,9 @@ The execution time for 600 images is 0.21 seconds and the accuracy is 1.0.
 Finally, transfer learning speeded up training and improved the performance of our deep learning model.
 
 ![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionA.png "Prediction for the letter A")
+
+![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionB.png "Prediction for the letter B")
+
+![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionC.png "Prediction for the letter C")
+
+![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionTransferLearning.png "Prediction with the Transfer Learning")
