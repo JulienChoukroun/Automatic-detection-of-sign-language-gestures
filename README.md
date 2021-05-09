@@ -10,6 +10,13 @@ This project was carried out with the Python language.
 * Use machine and deep learning techniques such as boosting, neural networks (multilayer perceptron), deep neural network (convolutionnal neural network) and transfer learning.
 * There are 9 tasks: 
   ⋅⋅* 1st task: Face detection simple (Create a real time video stream, Load the cascade classifier, Format and color transformation, Detect the face in the image, Draw rectangle around face, Detect eyes in the sub-region of face and draw rectangles)
+  
+1. Premier item de liste ordonnée
+2. Un autre item
+⋅⋅* une sous-liste ordonnée. 
+1. Les véritables numéros n'importent pas, si ce n'est que c'est un nombre
+⋅⋅1. Sous-liste ordonnée
+4. Un autre item.
 
 Example of result:
 
