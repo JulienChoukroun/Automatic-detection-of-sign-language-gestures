@@ -32,5 +32,4 @@ For the CNN, the execution time for 100 images is 45.68 seconds and the accuracy
 ![alt text](https://github.com/JulienChoukroun/Automatic-detection-of-sign-language-gestures/blob/main/Images/PredictionC.png "Prediction for the letter C")
 
 With the transfer learning:
-We observe that the Transfer learning is very accurate (same as the CNN and more accurate than the MLP). But the execution time here is greater than the execution time for the MLP or for the CNN. Indeed, the scores are:
-The execution time for 100 images is 92.53 seconds and the accuracy is 1.0.
+We observe that the Transfer learning is very accurate (same as the CNN and more accurate than the MLP). But the execution time here is greater than the execution time for the MLP or for the CNN. Indeed, the execution time for 100 images is 92.53 seconds and the accuracy is 1.0.
