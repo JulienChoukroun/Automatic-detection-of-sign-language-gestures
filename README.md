@@ -2,7 +2,7 @@ This project is carried out as part of the engineering cycle training (second ye
 ***
 # Automatic detection of sign language gestures
 
-## Présentation
+## Presentation
 This project was carried out with the Python language.
 
 ### Purpose:
